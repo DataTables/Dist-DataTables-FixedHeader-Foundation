@@ -1,0 +1,38 @@
+{
+    "name": "datatables.net-fixedheader-zf",
+    "description": "FixedHeader for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)",
+    "main": [
+        "css/fixedHeader.foundation.css"
+    ],
+    "keywords": [
+        "fixed headers",
+        "sticky",
+        "DataTables",
+        "jQuery",
+        "table",
+        "Foundation"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-zf": ">=1.10.9",
+        "datatables.net-fixedheader": ">=3.0.0"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "authors": [
+        {
+            "name": "SpryMedia Ltd",
+            "homepage": "https://datatables.net"
+        }
+    ],
+    "homepage": "https://datatables.net",
+    "license": "MIT"
+}
