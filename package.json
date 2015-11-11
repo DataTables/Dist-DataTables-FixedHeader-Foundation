@@ -5,7 +5,6 @@
     "files": [
         "css/fixedHeader.foundation.css"
     ],
-    "main": "./js/fixedHeader.foundation.js",
     "keywords": [
         "fixed headers",
         "sticky",
