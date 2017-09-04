@@ -3,7 +3,7 @@
     "version": "3.1.2",
     "description": "FixedHeader for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)",
     "files": [
-        "css/fixedHeader.foundation.css"
+        "css/**/*.css"
     ],
     "style": "css/fixedHeader.foundation.css",
     "keywords": [
