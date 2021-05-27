@@ -1,13 +1,15 @@
 {
-    "css": [
-        "css/fixedHeader.foundation.css",
-        "css/fixedHeader.foundation.min.css"
-    ],
     "js": [
         "js/fixedHeader.foundation.js",
         "js/fixedHeader.foundation.min.js"
     ],
+    "css": [
+        "css/fixedHeader.foundation.css",
+        "css/fixedHeader.foundation.min.css"
+    ],
+    "types": [
+        "types/fixedHeader.foundation.d.ts"
+    ],
     "src-repo": "http://github.com/DataTables/FixedHeader",
-    "last-sync": "a3889a133edeaa1f6e1c8ea9f0c5e36625cdb82c",
     "last-tag": "3.1.8"
 }
