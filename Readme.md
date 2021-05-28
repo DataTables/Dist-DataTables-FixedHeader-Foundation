@@ -19,7 +19,7 @@ npm install datatables.net-fixedheader-zf
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-fixedheader-zf}' )( window, $ );
+var dt = require( 'datatables.net-fixedheader-zf' )( window, $ );
 ```
 
 ### bower
