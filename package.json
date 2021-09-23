@@ -4,15 +4,15 @@
     "main": "js/fixedHeader.foundation.js",
     "style": "css/fixedHeader.foundation.css",
     "types": "./types/fixedHeader.foundation.d.ts",
-    "version": "3.1.9",
+    "version": "3.2.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
+        "Fixed Headers",
+        "Sticky",
         "Foundation",
         "Datatables",
         "jQuery",
