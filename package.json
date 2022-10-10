@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedheader-zf",
     "description": "FixedHeader for DataTables with styling for [Foundation](https://get.foundation/)",
     "main": "js/fixedHeader.foundation.js",
+    "module": "js/fixedHeader.foundation.mjs",
     "style": "css/fixedHeader.foundation.css",
     "types": "./types/fixedHeader.foundation.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
