@@ -10,7 +10,8 @@
         "css/fixedHeader.foundation.min.css"
     ],
     "types": [
-        "types/fixedHeader.foundation.d.ts"
+        "types/fixedHeader.foundation.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/FixedHeader",
     "last-tag": "3.2.4"
