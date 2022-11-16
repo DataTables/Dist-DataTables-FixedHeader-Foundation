@@ -28,10 +28,9 @@
 				require('datatables.net-zf')(root, $);
 			}
 
-			if ( ! $.fn.dataTable ) {
+			if ( ! $.fn.dataTable.FixedHeader ) {
 				require('datatables.net-fixedheader')(root, $);
 			}
-
 
 			return factory( $, root, root.document );
 		};
