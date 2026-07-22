@@ -1,4 +1,4 @@
-/*! FixedHeader Foundation styling 5.0.0-beta.1 for DataTables
+/*! FixedHeader Foundation styling 5.0.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
