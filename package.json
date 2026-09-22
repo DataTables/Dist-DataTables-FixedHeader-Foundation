@@ -5,7 +5,7 @@
     "module": "./js/fixedHeader.foundation.mjs",
     "style": "./css/fixedHeader.foundation.css",
     "types": "./types/fixedHeader.foundation.d.ts",
-    "version": "5.0.0",
+    "version": "5.1.0",
     "files": [
         "js",
         "css",
@@ -22,8 +22,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": "5.0.0",
-        "datatables.net-zf": "^3"
+        "datatables.net-fixedheader": "5.1.0",
+        "datatables.net-zf": "^3.1"
     },
     "author": {
         "name": "SpryMedia Ltd",
