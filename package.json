@@ -39,9 +39,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedHeader.foundation.d.ts",
+            "style": "./css/fixedHeader.foundation.css",
             "import": "./js/fixedHeader.foundation.mjs",
-            "default": "./js/fixedHeader.foundation.mjs",
-            "require": "./js/fixedHeader.foundation.js"
+            "require": "./js/fixedHeader.foundation.js",
+            "default": "./js/fixedHeader.foundation.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
